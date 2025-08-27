@@ -30,8 +30,7 @@ const App = () => {
           element: <SeaFood />,
         },
         {
-          path: "/allProducts",
-          element: <AllProducts />,
+          path: "/allProducts", element: <AllProducts />,
         },
       ],
     },
